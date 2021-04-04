@@ -1,0 +1,11 @@
+{
+  "name": "designPatterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Henrique1818/designPatterns.git",
+  "author": "Henrique1818 <luiz.henrique01827@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
